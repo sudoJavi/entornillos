@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Entornillos\\Visual\\Juego java a c\u002B\u002B\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10355F02-9E21-4525-A3E5-97CBB772BD76}|Project1.vcxproj|E:\\Entornillos\\Visual\\Juego java a c\u002B\u002B\\Project1\\Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{10355F02-9E21-4525-A3E5-97CBB772BD76}|Project1.vcxproj|solutionrelative:Juego.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Juego.cpp",
+              "DocumentMoniker": "E:\\Entornillos\\Visual\\Juego java a c\u002B\u002B\\Project1\\Juego.cpp",
+              "RelativeDocumentMoniker": "Juego.cpp",
+              "ToolTip": "E:\\Entornillos\\Visual\\Juego java a c\u002B\u002B\\Project1\\Juego.cpp*",
+              "RelativeToolTip": "Juego.cpp*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-14T07:16:29.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
